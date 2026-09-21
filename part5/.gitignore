@@ -3,4 +3,4 @@ Thumbs.db
 public/assets/images/*
 !public/assets/images/.gitkeep
 *.log
-part5/app/config/config.php
+**/config.php
